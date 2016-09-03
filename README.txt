@@ -4,4 +4,3 @@ eres
 es
 somos
 son
-finish
