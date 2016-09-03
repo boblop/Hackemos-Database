@@ -4,4 +4,4 @@ eres
 es
 somos
 son
-garbage
+finish
