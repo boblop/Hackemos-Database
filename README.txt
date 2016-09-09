@@ -4,7 +4,6 @@ eres
 es
 somos
 son
-ToBeConjugated:
 abrir
 abrí
 abriste
