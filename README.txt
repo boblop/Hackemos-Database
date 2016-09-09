@@ -64,6 +64,12 @@ estudiaste
 estudió
 estudiamos
 estudiaron
+enviar
+envié
+enviaste
+envió
+enviamos
+enviaron
 hablar
 hablé
 hablaste
