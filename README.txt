@@ -118,6 +118,12 @@ saliste
 salió
 salimos
 salieron
+prometer
+prometí
+prometiste
+prometió
+prometimos
+prometieron
 nadar
 nadé
 nadaste
