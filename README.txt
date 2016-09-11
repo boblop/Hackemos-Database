@@ -16,6 +16,12 @@ buscaste
 buscó
 buscamos
 buscaron
+cenar
+cené
+cenaste
+cenó
+cenamos
+cenaron
 cerrar
 cerré
 cerraste
