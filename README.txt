@@ -64,6 +64,12 @@ escribiste
 escribió
 escribimos
 escribieron
+viajar
+viajé
+viajaste
+viajó
+viajamos
+viajaron
 estudiar
 estudié
 estudiaste
