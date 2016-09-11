@@ -28,6 +28,12 @@ cerraste
 cerró
 cerramos
 cerraron
+lenar
+leñé
+leñaste
+leñó
+leñamos
+leñaron
 charlar
 charlé
 charlaste
