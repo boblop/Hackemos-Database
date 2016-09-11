@@ -118,6 +118,12 @@ saliste
 salió
 salimos
 salieron
+nadar
+nadé
+nadaste
+nadó
+nadamos
+nadaron
 tomar
 tomé
 tomaste
