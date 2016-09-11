@@ -141,5 +141,4 @@ trabajé
 trabajaste
 trabajó
 trabajamos
-trabajasteis
 trabajaron
